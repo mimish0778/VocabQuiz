@@ -1,4 +1,4 @@
-# VocabQuiz
+# Vocab Quiz
 
 大学受験向け英単語を、スペル入力形式で学習できるWebクイズアプリ
 
